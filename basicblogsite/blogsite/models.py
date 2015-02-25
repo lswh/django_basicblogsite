@@ -22,7 +22,7 @@ class Blogpost(models.Model):
     def __unicode__(self):
         return self.posttitle
 
-# music = models.
+    # music = models.
     # latitude = models.
     # longitude = models.
     # numberofcomments = models.IntegerField()
